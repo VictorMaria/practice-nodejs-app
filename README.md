@@ -1,0 +1,1 @@
+This is a practice project following a Toptal tutorial using nodejs, express, mongoDB and typescript
